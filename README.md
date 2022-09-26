@@ -1,0 +1,16 @@
+## Hello, Go! 
+
+### My name is Vinicius Santos and this is my Go Beginners Repository.  
+
+Im this moment, i learned about:
+
+- Variables
+- Packages
+- Types
+- Control Flow
+- Data Grouping
+- Structs
+- Funcs
+
+### The exercises and files created are being based on the series of videos of the channel "Aprenda Go"
+<a href="https://www.youtube.com/c/AprendaGo">Click here to Check!</a>
