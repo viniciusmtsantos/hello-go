@@ -1,6 +1,6 @@
 ## Hello, Go! 
 
-### My name is Vinicius Santos and this is my Go Beginners Repository.  
+### This is my Go for Beginners Repository.  
 
 Im this moment, i learned about:
 
