@@ -12,7 +12,6 @@ func main() {
 
 	fmt.Print("Digite o numero: ")
 	fmt.Scan(&number)
-	soma = 0
 	for i = 1; i <= number; i++ {
 		x := (1 / i)
 		soma += x
