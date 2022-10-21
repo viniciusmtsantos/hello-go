@@ -2,7 +2,7 @@
 
 ### This is my Go for Beginners Repository.  
 
-Im this moment, i learned about:
+In this moment, i learned about:
 
 - Variables
 - Packages
